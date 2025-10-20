@@ -29,7 +29,7 @@ export default function ApartahotelInfo() {
         <div>
           <h3 className="text-2xl font-semibold text-[#004aad]">Información general</h3>
           <p className="mt-3">
-            Bienvenido a Apartahotel Silla, un alojamiento turístico moderno ubicado en el corazón de Alicante. Contamos con 10 unidades totalmente equipadas para 2 personas, con acceso digital 24 h y atención personalizada sin recepción física.
+            Bienvenido a Apartahotel Dozzze Romeo, un alojamiento turístico moderno ubicado en el corazón de Alicante. Contamos con 10 unidades totalmente equipadas para 2 personas, con acceso digital 24 h y atención personalizada sin recepción física.
           </p>
           <p className="mt-3">
             <strong>Teléfono de atención 24 h:</strong> +34 919 540 882
@@ -115,8 +115,8 @@ export default function ApartahotelInfo() {
       </div>
 
       <footer className="mt-10 text-center text-sm text-zinc-600 border-t border-zinc-200 pt-4">
-        <p>Apartahotel Silla Alicante • Registro: HA-1730</p>
-        <p>©️ 2025 Silla Hospitality Group • CIF: B-12345678</p>
+        <p>Apartahotel Dozzze Romeo • Alicante • Registro: HA-1730</p>
+        <p>©️ 2025 Apartahotel Dozzze Romeo • CIF: B-88011556</p>
       </footer>
     </section>
   );
